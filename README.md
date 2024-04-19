@@ -1,2 +1,2 @@
 # bookbot
-This is a bookbot.
+This is a sample bookbot.
