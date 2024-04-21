@@ -1,2 +1,2 @@
 # bookbot
-This is a sample bookbot.
+This is a very basic Python bookbot.
